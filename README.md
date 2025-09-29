@@ -22,3 +22,5 @@ Arguments instead of hardcoded driver,
 Arguments for IOCTLs,
 Library Injection into Kernel (ring0),
 System 4 token shellcode (Implemented in C++)
+
+![alt text]([http://url/to/img.png](https://i.ibb.co/Mxb3xMWT/Screenshot-from-2025-09-29-20-49-57.png))
