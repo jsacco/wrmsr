@@ -23,4 +23,4 @@ Arguments for IOCTLs,
 Library Injection into Kernel (ring0),
 System 4 token shellcode (Implemented in C++)
 
-[(https://i.ibb.co/Mxb3xMWT/Screenshot-from-2025-09-29-20-49-57.png)]
+<img src="https://i.ibb.co/Mxb3xMWT/Screenshot-from-2025-09-29-20-49-57.png">
