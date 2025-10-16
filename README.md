@@ -1,4 +1,4 @@
-##Windows Kernel Exploits: WRMSR (Model Specific Registers)
+## Windows Kernel Exploits: WRMSR (Model Specific Registers)
 <<jsacco@exploitpack.com>> https://exploitpack.com
 
 Model Specific Registers (MSR) are CPU control registers that are specific for a CPU family. Their original purpose was to introduce experimental new features and functionality, but some of them proved useful enough to be retained across CPU models and are not expected to change in future processors. Intel refers to these as Architectural MSRs.
